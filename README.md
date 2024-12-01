@@ -1,0 +1,2 @@
+# mystrings
+golang test repository
